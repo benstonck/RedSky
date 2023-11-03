@@ -44,5 +44,44 @@ body{
 /* .text-1{
     background-color: rgb(43, 226, 226);
 } */
+/* .contact-1{
+    background-color: blue;
+} */
+
+.Dred{
+    color: rgb(146, 23, 23);
+}
+
+.Dblue
+{
+    color: rgb(15, 15, 136);
+}
+.DBred{
+    background-color: rgb(146, 23, 23);
+}
+
+.DBblue
+{
+    background-color: rgb(1, 159, 207);
+}
+.Dbluel
+{
+   color:rgb(1, 159, 207);
+}
 
 
+.f-blod
+{
+    font-weight: bold;
+}
+
+.bradius
+{
+    border-radius: 1rem;
+}
+
+
+.bradius2
+{
+    border-radius: 2rem;
+}
