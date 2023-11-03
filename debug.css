@@ -1,0 +1,48 @@
+.bg-info1{
+    background-color: white; 
+}
+
+/* .border{
+    border: 2px solid rgb(246, 15, 15);
+} */
+body{
+    background-color: aliceblue;
+}
+.bg-light-gray{
+    background-color: aliceblue;
+}
+.logo-navebar{
+    width: 150px;
+    height: 70px;
+   padding-top: 10px;
+}
+.m-1{
+   
+    padding-top: 0;
+}
+.red-1{
+    border: 1px solid red;
+   
+    
+   
+}
+.red-2{
+    border: 1px solid red;
+   
+}
+.about-2{
+   
+    margin-top: -15px;
+}
+/* .about-3{
+    background-color: aqua;
+  
+} */
+.text-2{
+    
+}
+/* .text-1{
+    background-color: rgb(43, 226, 226);
+} */
+
+

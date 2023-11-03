@@ -1,0 +1,38 @@
+#particles-js{
+  width: 100%;
+  background-image: url('');
+  background-size: cover;
+  background-position: 100% 100%;
+  background-repeat: no-repeat; height:200px; padding-top:50px; box-shadow: inset 0px 11px 8px -9px #000,
+        inset 0px -11px 8px -9px #000;
+}
+
+#particles-js1{
+  width: 100%;
+  background-image: url('');
+  background-size: cover;
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+}
+#particles-js2{
+  width: 100%;
+  background-image: url('');
+  background-size: cover;
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+}
+canvas.particles-js-canvas-el{
+    height:200px!important;
+}
+/*--test--*/
+
+#plans {
+	 background:url(images/homepage-9-parallax-img2.jpg;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-attachment: fixed;
+	 position:relative;
+}
