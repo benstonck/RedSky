@@ -1,0 +1,65 @@
+
+.es-contact-1{
+   
+}
+
+.es-contact-2{
+   margin-top: 30px;
+}
+
+.Dblue-benefits-111{
+    font-size: 30px;
+    color: #58C0BB;
+   
+   margin-top: 60px;
+
+}
+.contact-heading-tag{
+    /* color: #004785; */
+   
+    font-size:x-large;
+}
+.contact-heading-tag-1{
+    font-size:large;
+    color: #405c73;
+    /* color: #004785; */
+}
+.contact-heading-tag-2{
+    font-size:large;
+    color: black;
+}
+.copy-right{
+    
+    background: linear-gradient(#58C0BB,#507D7B);
+   
+}
+.map-1{
+  
+
+}
+.map-2{
+    
+}
+.map-3{
+    min-width: 1170px;
+   
+}
+
+/* NEW */
+
+.red-wel-pad{
+    padding: 0;
+    margin-bottom: 250px;
+}
+
+.path{
+    background-color: red;
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    clip-path: circle(180vh at 50% -150vh);
+    text-align: center;
+    padding-top: 50px;
+    
+    
+}

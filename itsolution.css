@@ -1,0 +1,46 @@
+.nav-head-c{
+    font-size: 15px;
+    /* color:  #004785; */
+   color: black;
+    transition: 3ms;
+
+   }
+   .nav-head-c:hover{
+    color: red;
+    /* color:rgb(0, 0, 254); */
+   }
+   .red-wel-pad{
+    padding: 0;
+    margin-bottom: 250px;
+  }
+  
+  .path{
+    background-color: #0661E8;
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    clip-path: circle(180vh at 50% -150vh);
+    text-align: center;
+    padding-top: 50px;
+    
+  }
+  .red-training{
+    color: white;
+
+  }
+  .training-red{
+    color:  #004785;
+  }
+  .training-icons{
+    color: #de4848;
+  }
+  .training-border{
+    /* border: 1px solid red; */
+    /* background-color:rgb(231, 231, 210); */
+    background-color: cadetblue;
+    border-radius: 16px;
+    transition: 1s;
+  }
+  .training-border:hover{
+    transform: scale(1.1);
+  }

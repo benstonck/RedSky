@@ -1,0 +1,36 @@
+.beniston{
+    clip-path: circle();
+    background-color: rgb(194, 168, 168);
+    border-color: blue;
+}
+.beniston-1{
+    clip-path: circle();
+    background-color: rgb(194, 168, 168);
+    border-color: blue;
+    position: relative;
+   width: 262px;
+   
+}
+
+.beniston-2{
+    clip-path: circle();
+    background-color:  rgb(194, 168, 168);
+    border-color: blue;
+    position: relative;
+    margin-top: -60px;
+}
+.our-team-contant{
+   
+    margin-top: -20px;
+}
+.our-team-contant-1{
+   
+    margin-top: -50px;
+}
+.red-team-photo{
+    
+}
+.red-team-photo-1{
+   
+   
+}

@@ -1,0 +1,85 @@
+/* navbar */
+.bg-info1{
+    /* background-color: #B6161A; */
+   background-color: white;
+ }
+.nav-head-c{
+    font-size: 15px;
+    /* color:  #004785; */
+   color: rgb(43, 26, 173);
+    transition: 3ms;
+
+   }
+   .nav-head-c:hover{
+    color: blue;
+    /* color:rgb(0, 0, 254); */
+   }
+
+   /* baner-img */
+   .baner-101{
+    
+   }
+
+/* welcome page */
+
+   .border-radius12{
+    /* background-color: #004a96; */
+    /* background: linear-gradient(#004a96,#000b3b); */
+    /* background: linear-gradient(#58C0BB,#518C8A); */
+    /* background: linear-gradient(#58C0BB,#507D7B); */
+   
+
+    border-radius: 0px 0px 0px 0px;
+   }
+   .red-sky-welcome{
+    color: black;
+   }
+/* enquire now page */
+   .enquire{
+    background: linear-gradient(#58C0BB,#507D7B);
+
+   }
+
+
+
+
+/* fotter */
+.footer-c{
+    
+    /* background: linear-gradient(#000000,#F51016,#000000); */
+    /* background:linear-gradient(#D9D9D9,#0762E9,#D9D9D9); */
+   background-color: #055393;
+}
+.red-training{
+   color: white;
+
+ }
+ .training-red{
+   /* color:  #004785; */
+   color: white;
+   font-size: 18px;
+ }
+ .training-icons{
+   /* color: #de4848; */
+   color: #c22129;
+ }
+ .training-border{
+   /* border: 1px solid red; */
+   /* background-color:rgb(231, 231, 210); */
+   /* background-color: cadetblue; */
+   background-color: #679beb;
+   border-radius: 16px;
+   transition: 1s;
+ }
+ .training-border:hover{
+   transform: scale(1.1);
+   box-shadow: 3px 3px 3px rgb(192, 182, 182);
+ }
+ .color-i-new{
+  color: white;
+  margin-left: 30px;
+ }
+ .home-training-size{
+  font-size: 14px;
+  
+ }
