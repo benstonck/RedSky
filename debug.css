@@ -569,7 +569,8 @@
  }
  .contact-p-co{
      color: black;
-     font-weight: 300;
+     font-weight: 400;
+     font-size: 16px;
  }
  .mar-left-5{
      padding-left: 5px;
@@ -717,6 +718,7 @@
  }
  
  .our-hover-08{
+   
  transition: 1s;
  }
  .our-hover-08:hover{
